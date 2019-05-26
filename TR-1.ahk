@@ -44,14 +44,6 @@ $z:: ;z键启动
 }
 return
 
-$e::
-{
-    MouseGetPos, MouseX, MouseY
-    MsgBox %MouseX% %MouseY%
-    
-}
-return
-
 /*
 放置人物
 */
