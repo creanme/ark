@@ -1,6 +1,6 @@
 #SingleInstance force
 
-$z:: ;鼠标中键启动
+$z:: ;z键启动
 {
 
     Loop, 5
