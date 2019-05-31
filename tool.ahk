@@ -9,3 +9,5 @@ $e::
     
 }
 return
+
+#p::Pause  ;宏暂停或继续
